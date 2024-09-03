@@ -1,12 +1,23 @@
  body{
     background-color: rgb(0, 0, 0);
     color: rgb(152, 104, 207);
+    font-family: "Lilita One", sans-serif
+
+
+    }
+    
  }
 
  header{
 
     background-color:rgb(204, 116, 189);
     padding: 40px;
+
+  p{
+   font-size: 70px;
+  }
+
+
  }
 
  .links{
@@ -15,14 +26,14 @@
  color: rgb(0, 0, 0);
  font-size: 30px;
  text-decoration: none;
- background-color: rgb(231, 96, 141);
- padding: 15px 25px;
+ background-color: rgb(152, 104, 207);
+ padding: 5px 10px;
  border-radius: 15px;
 
 
  }
 
- .titulo{
-    color: palevioletred;
+ h1{
+    color: rgb(233, 78, 130);
     text-align: center;
  }
